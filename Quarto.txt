@@ -1,0 +1,6 @@
+Resolução do quarto exercício: 
+
+Apesar de ter feito os cálculos das respectivas distâncias e posição final (momento de encontro), 
+por ser um encontro, ambos estarão na mesma distância. Porém, se considerarmos um ponto
+linear no momento exato em que eles tocam nessa linha, o carro estaria mais perto de Ribeirão devido ao seu corpo,
+que iria de *encontro* ao corpo do caminhão (que vem da direção oposta).
